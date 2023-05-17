@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 443,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.CustomBrowser": "null",
+    "liveServer.settings.https": {
+      "enable": true,
+      "cert": "C:\\Users\\acer_es15\\localhost.pem",
+      "key": "C:\\Users\\acer_es15\\localhost.key",
+      "passphrase": "123456"
+    }
+  }
