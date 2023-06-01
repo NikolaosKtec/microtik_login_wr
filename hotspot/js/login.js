@@ -17,9 +17,10 @@ function fb_getStatus() {
 function statusChangeCallback(response) {
     if (response.status === 'connected') {
         authHotspotMikrotik()
-    } else {
-        alert('por favor, entre com sua conta do facebook!')
-    }
+    } 
+    // else {
+    //     alert('por favor, entre com sua conta do facebook!')
+    // }
 }
 function check_status_btn(response) {
     if (response.status == 'connected') {
